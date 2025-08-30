@@ -1,0 +1,8 @@
+Catppuccin for Open-Shell Menu
+
+1. Copy .skin and .skin7 files to:
+   C:\Program Files\Open-Shell\Skins
+2. Navigate to the "Skins" tab in Open-Shell settings
+3. Select your preferred flavor from the dropdown
+4. Under "Skin options" set your preferred accent color
+5. Click OK to save the changes
