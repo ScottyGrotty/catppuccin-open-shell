@@ -49,7 +49,7 @@
 3. Navigate to the "Skins" tab in Open-Shell settings.
 4. Select your preferred flavor from the dropdown.
 
-	![Accent color selection](assets/screenshots/accent-selection.webp)
+<img src="assets/screenshots/accent-selection.webp" width="450" alt="Accent color selection">
 
 5. Under "Skin options" set your preferred accent color.
 6. Click OK to save the changes.
