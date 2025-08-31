@@ -8,7 +8,7 @@
 <p align="center">
 	<a href="https://github.com/ScottyGrotty/catppuccin-open-shell/stargazers"><img src="https://img.shields.io/github/stars/ScottyGrotty/catppuccin-open-shell?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
 	<a href="https://github.com/ScottyGrotty/catppuccin-open-shell/issues"><img src="https://img.shields.io/github/issues/ScottyGrotty/catppuccin-open-shell?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/ScottyGrotty/catppuccin-open-shell"><img src="https://img.shields.io/github/contributors/ScottyGrotty/catppuccin-open-shell?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/ScottyGrotty/catppuccin-open-shell/contributors"><img src="https://img.shields.io/github/contributors/ScottyGrotty/catppuccin-open-shell?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
